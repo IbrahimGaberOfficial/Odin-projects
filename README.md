@@ -14,11 +14,14 @@ This is a full list of my projects working on "The Odin Project".
 	- [Live demo](https://ibrahimgaberofficial.github.io/odin-project---landing-page/)
 	
 3. Rock Paper Scissors
-	-[Code](https://github.com/IbrahimGaberOfficial/Odin-Rock-Paper-Scissors).
+	- [Code](https://github.com/IbrahimGaberOfficial/Odin-Rock-Paper-Scissors).
 	- [Live Demo](https://ibrahimgaberofficial.github.io/Odin-Rock-Paper-Scissors/).
 4. Etch-a-Sketch
 	- [Code](https://github.com/IbrahimGaberOfficial/Etch-a-Sketch)
 	- [Live demo](https://ibrahimgaberofficial.github.io/Etch-a-Sketch/)
-	
+
+5. Calculator
+	- [Code](https://github.com/IbrahimGaberOfficial/calculator)
+	- [Live demo](https://ibrahimgaberofficial.github.io/calculator/)
 
 
